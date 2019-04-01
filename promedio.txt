@@ -1,0 +1,2 @@
+el nombre del estudiante es Danny
+ha obtenido un promedio de 4

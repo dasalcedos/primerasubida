@@ -1,0 +1,3 @@
+Estudiante: MiNombre
+con numero de cédula: :34422
+se inscribió en el curso número 1 sobre JavaFx desde cero con una duración de 30 horas y un costo de 100 dólares

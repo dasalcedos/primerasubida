@@ -1,0 +1,1 @@
+{"curso":{"id":2,"nombre":"Ingles","duracion":20,"valor":25000},"nombre":"LEANDRA SANCHEZ","documento":"43112583","status":true}

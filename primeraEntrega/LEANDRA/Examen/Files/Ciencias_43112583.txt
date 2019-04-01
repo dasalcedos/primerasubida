@@ -1,0 +1,1 @@
+{"curso":{"id":3,"nombre":"Ciencias","duracion":10,"valor":30000},"nombre":"LEANDRA SANCHEZ","documento":"43112583","status":true}

@@ -1,0 +1,9 @@
+
+Información del curso:
+Identificador: 2
+Nombre: Git y control de versiones
+Duración: 120 horas
+Valor: $50000
+Información del estudiante:
+Cédula: Oscar
+Nombre: 12312312
